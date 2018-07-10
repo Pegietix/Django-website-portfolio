@@ -1,0 +1,127 @@
+body {
+    background-image: url("images/background.jpg");
+    background-size: cover;
+}
+
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+    font-size: 23px;
+}
+
+.index-profile-pic {
+    display: block;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    object-fit: cover;
+    width: 230px;
+    height: 230px;
+}
+
+.gmail-header,
+.index-header,
+.technologies,
+.projects-header {
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.technologies-logos-main-django {
+    display: inline-block;
+    height: auto;
+    width: 15%;
+}
+
+.technologies-logos-main-python {
+    display: inline-block;
+    height: auto;
+    width: 40%;
+}
+
+.technologies-logos-small-css {
+    display: inline-block;
+    height: auto;
+    width: 4%;
+}
+
+.technologies-logos-small-html {
+    display: inline-block;
+    height: auto;
+    width: 5.5%;
+}
+
+.technologies-logos-small-bootstrap {
+    display: inline-block;
+    height: auto;
+    width: 12%;
+}
+
+.technologies-logos-main {
+    margin-top: 50px;
+}
+
+.technologies-logos-small {
+    margin-top: 120px;
+}
+
+.projects-bounce-title {
+    text-align: center;
+}
+
+.projects-bounce-gif {
+    width: 40%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.projects-github-container {
+    text-align: right;
+    margin-right: 1%;
+    font-family: 'Lobster', cursive;
+}
+
+.hobbies-header {
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.hobbies-video-container {
+    text-align: center;
+}
+
+.hobbies-vid1 {
+    display: inline-block;
+    width: 40%;
+    height: auto;
+    min-height: 23vw;
+
+}
+
+.hobbies-vid1 {
+    display: inline-block;
+    width: 40%;
+    height: auto;
+    min-height: 23vw;
+
+.gmail-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+

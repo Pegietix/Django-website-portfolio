@@ -1,0 +1,29 @@
+{% extends "portfolio/base.html" %}
+{% load static %}
+
+{% block content %}
+
+  <div class="projects-header">
+    <h1>My most recent project</h1>
+  </div>
+
+  <div class="projects-bounce-gif-container">
+    <a href="https://github.com/Pegietix/Bounce-Tkinter">
+      <img src="{% static "portfolio/images/demo_gif.gif" %}"
+           class="projects-bounce-gif"></a>
+  </div>
+
+  <div class="projects-bounce-title">
+    <h1>Bounce!</h1>
+  </div>
+
+  <div class="projects-github-container">
+    <div class="projects-github">
+      <h3>Find more on my <a href="https://github.com/Pegietix">GitHub</a></h3>
+    </div>
+  </div>
+
+
+
+
+{% endblock %}

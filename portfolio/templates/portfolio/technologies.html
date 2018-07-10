@@ -1,0 +1,38 @@
+{% extends "portfolio/base.html" %}
+{% load static %}
+
+{% block content %}
+  <div class="technologies">
+
+    <div class="technologies-header">
+      <h1>Technologies that I work with</h1>
+    </div>
+
+    <div class="technologies-logos-main">
+      <img class="technologies-logos-main-python"
+           src="{% static "portfolio/images/python.svg" %}"
+           height="150px"
+           alt="Python logo">
+      <img class="technologies-logos-main-django"
+           src="{% static "portfolio/images/django.png" %}"
+           height="180px"
+           alt="Django logo">
+    </div>
+
+    <div class="technologies-logos-small">
+      <img class="technologies-logos-small-html"
+           src="{% static "portfolio/images/html.png" %}"
+           height="80px"
+           alt="HTML logo">
+      <img class="technologies-logos-small-css"
+           src="{% static "portfolio/images/css.png" %}"
+           height="80px"
+           alt="CSS logo">
+      <img class="technologies-logos-small-bootstrap"
+           src="{% static "portfolio/images/bootstrap.png" %}"
+           height="80px"
+           alt="Bootstrap logo">
+    </div>
+
+  </div>
+{% endblock %}
