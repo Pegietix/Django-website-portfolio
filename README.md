@@ -1,5 +1,5 @@
 
-  <img src="sitegif.gif" height="400px">
+  <img src="sitegif.gif" height="500px">
 
   
 
