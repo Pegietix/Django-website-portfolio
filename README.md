@@ -37,7 +37,7 @@ These instructions will get you a copy of the project up and running on your loc
    4. Install required files from `requirements.txt`. You can do it easily with `pip install -r requirements.txt` command.
    5. Run server in your IDE or manually - `python manage.py runserver`.
    <br>
-   The website is up and running! You can now access it in your web browser at `localhost:8000` address.
+   The website is up and running! You can now access it in your web browser at ` localhost:8000 ` address.
 
 
 
