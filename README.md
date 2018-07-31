@@ -1,8 +1,8 @@
 
   <img src="sitegif.gif">
 
-  
-> 25.04.2018  
+  <br>
+> 06.2018  
 ## __General Info__
 Simple portfolio website.  
 <br>
