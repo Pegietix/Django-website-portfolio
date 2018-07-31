@@ -6,7 +6,8 @@
 ## __General Info__
 Simple portfolio website.  
 <br>
-I created it in order to utilize freshly learned Django framework skills.
+I created it in order to utilize freshly learned Django framework skills, accompanied with some HTML, CSS and Bootstrap.
+Website is fully responsive on smaller devices.
 
 ### __Technologies__
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" alt="drawing" width="20px"/> __Python__ 3.7.0
