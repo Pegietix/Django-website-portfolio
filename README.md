@@ -1,6 +1,7 @@
 <img src="sitegif.gif">
 
 <br>
+
 > 06.2018  
 
 ## __General Info__
