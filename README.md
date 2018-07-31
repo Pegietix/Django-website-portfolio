@@ -18,15 +18,20 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### __Prerequisites__
 
-* <a target="_blank" rel="noopener noreferrer" href="https://www.python.org/downloads/">Python 3.6.5</a> with TKinter module
+* <a target="_blank" rel="noopener noreferrer" href="https://www.python.org/downloads/">Python 3.7.0</a>
+* Django 2.0.7
 
 
 
 ### __Instructions__
 
-   1. Download and install <a target="_blank" rel="noopener noreferrer" href="https://www.python.org/downloads/">Python 3.6.5</a>
+   1. Download and install <a target="_blank" rel="noopener noreferrer" href="https://www.python.org/downloads/">Python 3.7.0</a>
 . Be sure to include TKinter module during installation process.
-   2. Download or clone the repository and run `BOUNCE.pyw`.
+   2. Download or clone the repository.
+   3. Create and activate virtualenv on your machine.
+   4. Install required files from `requirements.txt`. You can do it easily with `pip install -r requirements.txt` command.
+   5. Run server in your IDE or manually - `python manage.py runserver`.
+   The website is up and running! You can now access it in your web browser at `localhost:8000` address.
 
 
 
