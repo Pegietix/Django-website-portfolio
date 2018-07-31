@@ -11,6 +11,9 @@ I created it in order to utilize freshly learned Django framework skills.
 ### __Technologies__
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" alt="drawing" width="20px"/> __Python__ 3.7.0
 * <img src="https://stermedia.pl/app/uploads/2016/04/django.jpg" alt="drawing" width="22px"/> __Django__ framework
+* <img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.svg" alt="drawing" width="20px"/> __HTML__
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/2000px-CSS3_logo_and_wordmark.svg.png" alt="drawing" width="20px"/> __CSS__
+* <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Boostrap_logo.svg" alt="drawing" width="20px"/> __Bootstrap__
 
 ## __Setup__
 
