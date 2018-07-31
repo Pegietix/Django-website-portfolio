@@ -26,11 +26,12 @@ These instructions will get you a copy of the project up and running on your loc
 ### __Instructions__
 
    1. Download and install <a target="_blank" rel="noopener noreferrer" href="https://www.python.org/downloads/">Python 3.7.0</a>
-. Be sure to include TKinter module during installation process.
+.
    2. Download or clone the repository.
    3. Create and activate virtualenv on your machine.
    4. Install required files from `requirements.txt`. You can do it easily with `pip install -r requirements.txt` command.
    5. Run server in your IDE or manually - `python manage.py runserver`.
+   <br>
    The website is up and running! You can now access it in your web browser at `localhost:8000` address.
 
 
@@ -46,9 +47,3 @@ These instructions will get you a copy of the project up and running on your loc
     * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/New_Logo_Gmail.svg/1280px-New_Logo_Gmail.svg.png" height="15px"> piotr.goldys9@gmail.com</a>
     
 
-### Thoughts
-At first this was supposed to be small, 100-ish line, single-file project, but turned out a little bigger than expected.
-I should have written it with that in mind from the beginning, the final code would be much clearer.
-
-I wrote this project before I read "Clean Code" book - now I would write it in much more clean and intuitive way, 
-especially when it comes to naming functions.
